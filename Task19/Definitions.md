@@ -7,8 +7,10 @@ A type of machine learning model that are loosely modeled after the structure of
 ### Machine Learning: 
 A subfield of artificial intelligence that involves the development of algorithms that can learn from and make predictions or decisions based on data, without being explicitly programmed to do so.
 
-Artificial Intelligence (AI) refers to the ability of machines to perform tasks that would normally require human intelligence, such as understanding natural language or recognizing patterns in data.
+### Artificial Intelligence
+(AI) refers to the ability of machines to perform tasks that would normally require human intelligence, such as understanding natural language or recognizing patterns in data.
 
+### Others
 The weights of a neural network are the parameters that are learned during the training process.
 
 Layers are the building blocks of a neural network. They consist of multiple neurons that process input data and pass output to the next layer. There are several types of layers, including input, output, and hidden layers.
